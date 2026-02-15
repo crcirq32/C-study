@@ -3,6 +3,8 @@
  *
  * Author: Arun Prakash Jana <engineerarun@gmail.com>
  * Copyright (C) 2015 by Arun Prakash Jana <engineerarun@gmail.com>
+ * Please reference github for usage and installation:
+ * https://github.com/jarun/spy
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
@@ -16,6 +18,7 @@
  *
  * You should have received a copy of the GNU General Public License
  * along with spy. If not, see <http://www.gnu.org/licenses/>.
+ * 
  */
 
 #include <linux/init.h>
